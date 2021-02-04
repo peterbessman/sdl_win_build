@@ -1,5 +1,5 @@
 # How to build SDL applications on Windows
-build.bat will get you started compiling an SDL application with Visual C++. Make sure you create your `main()` function like so:
+build.bat will get you started compiling an [SDL](http://libsdl.org) application with Visual C++. Make sure you create your `main()` function like so:
 
 `int main(int argc, char* argv[])`
 
